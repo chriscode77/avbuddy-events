@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ise-2026",
+    "title": "Integrated Systems Europe (ISE)",
+    "organiser": "ISE",
+    "startUtc": 1767052800000,
+    "endUtc": 1767398400000,
+    "city": "Barcelona",
+    "country": "Spain",
+    "url": "https://www.iseurope.org/",
+    "imageUrl": "https://yourcdn.com/ise.png"
+  },
+  {
+    "id": "infocomm-2026",
+    "title": "InfoComm",
+    "organiser": "AVIXA",
+    "startUtc": 1770163200000,
+    "endUtc": 1770418800000,
+    "city": "Orlando, FL",
+    "country": "USA",
+    "url": "https://www.infocommshow.org/",
+    "imageUrl": "https://yourcdn.com/infocomm.png"
+  }
+]
