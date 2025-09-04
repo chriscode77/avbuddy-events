@@ -1,24 +1,26 @@
 [
   {
-    "id": "ise-2026",
-    "title": "Integrated Systems Europe (ISE)",
+    "id": "ise-2026", 
+    "title": "ISE 2026",
     "organiser": "ISE",
+    "location": "Barcelona, Spain",
+    "description": "Integrated Systems Europe is the world's largest AV systems integration show.",
     "startUtc": 1767052800000,
     "endUtc": 1767398400000,
-    "city": "Barcelona",
-    "country": "Spain",
     "url": "https://www.iseurope.org/",
-    "imageUrl": "https://yourcdn.com/ise.png"
+    "imageUrl": "https://raw.githubusercontent.com/yourgithubuser/avbuddy-events/main/images/ise.png",
+    "tags": ["trade show", "exhibition", "proAV"]
   },
   {
     "id": "infocomm-2026",
-    "title": "InfoComm",
+    "title": "Infocomm 2026",
     "organiser": "AVIXA",
-    "startUtc": 1770163200000,
-    "endUtc": 1770418800000,
-    "city": "Orlando, FL",
-    "country": "USA",
+    "location": "Las Vegas, USA",
+    "description": "InfoComm is the largest AV trade show in North America, covering pro audio, video, and control systems.",
+    "startUtc": 1773379200000,
+    "endUtc": 1773724800000,
     "url": "https://www.infocommshow.org/",
-    "imageUrl": "https://yourcdn.com/infocomm.png"
+    "imageUrl": "https://raw.githubusercontent.com/yourgithubuser/avbuddy-events/main/images/infocomm.png",
+    "tags": ["conference", "networking", "standards"]
   }
 ]
