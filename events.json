@@ -20,7 +20,7 @@
     "startUtc": 1781654400000,
     "endUtc": 1781827200000,
     "url": "https://www.infocommshow.org/",
-    "imageUrl": "https://github.com/chriscode77/avbuddy-events/blob/main/images/infoCommpic.png",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/infoCommpic.png",
     "tags": ["conference", "networking", "standards"]
   }
 ]
