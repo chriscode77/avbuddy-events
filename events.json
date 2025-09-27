@@ -5,8 +5,8 @@
     "organiser": "ISE",
     "location": "Barcelona, Spain",
     "description": "Integrated Systems Europe is the world's largest AV systems integration show.",
-    "startUtc": 1767052800000,
-    "endUtc": 1767398400000,
+    "startUtc": 1770076800000,
+    "endUtc": 1770336000000,
     "url": "https://www.iseurope.org/",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/ise.jpg",
     "tags": ["trade show", "exhibition", "proAV"]
@@ -17,8 +17,8 @@
     "organiser": "AVIXA",
     "location": "Las Vegas, USA",
     "description": "InfoComm is the largest AV trade show in North America, covering pro audio, video, and control systems.",
-    "startUtc": 1761523200000,
-    "endUtc": 1773724800000,
+    "startUtc": 1781654400000,
+    "endUtc": 1781827200000,
     "url": "https://www.infocommshow.org/",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/infocomm.png",
     "tags": ["conference", "networking", "standards"]
