@@ -92,7 +92,7 @@
     "startUtc": 1763424000000,
     "endUtc": 1763683199000,
     "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/reproduced-sound.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
     "tags": ["conference", "acoustics"]
   },
   {
@@ -128,7 +128,7 @@
     "startUtc": 1770076800000,
     "endUtc": 1770422399000,
     "url": "https://www.iseurope.org/",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/ise.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
     "tags": ["trade show", "exhibition", "proAV"]
   },
   {
@@ -177,7 +177,7 @@
     "endUtc": null,
     "dateNote": "TBC April 2026",
     "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/nab.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
     "tags": ["trade show", "broadcast"]
   },
   {
