@@ -1,52 +1,5 @@
 [
-  {
-    "id": "plasa-show-2025",
-    "title": "PLASA Show 2025",
-    "organiser": "PLASA",
-    "location": "Olympia, London, UK",
-    "description": "The association for the live entertainment technology industry holds its annual exhibition at Olympia, London.",
-    "startUtc": 1757199600000,
-    "endUtc": 1757458799000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TR_SHOW.png",
-    "tags": ["trade show", "exhibition", "live events"]
-  },
-  {
-    "id": "ibc-2025",
-    "title": "IBC Show 2025",
-    "organiser": "IBC",
-    "location": "RAI Amsterdam, Netherlands",
-    "description": "The world’s most influential media, entertainment & technology show.",
-    "startUtc": 1757631600000,
-    "endUtc": 1757977199000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["trade show", "broadcast", "media tech"]
-  },
-  {
-    "id": "showmans-show-2025",
-    "title": "The Showman’s Show 2025",
-    "organiser": "The Showman’s Show",
-    "location": "Newbury Showground, Newbury, UK",
-    "description": "The UK’s original and most comprehensive exhibition of products, services and entertainment for the festival, outdoor and special event industry.",
-    "startUtc": 1761087600000,
-    "endUtc": 1761260399000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/EV_INDUST.png",
-    "tags": ["exhibition", "events", "festival"]
-  },
-  {
-    "id": "ips-pro-audio-show-2025",
-    "title": "The IPS Pro Audio Show 2025",
-    "organiser": "Institute of Professional Sound (IPS)",
-    "location": "The Hub, London South Bank University, London, UK",
-    "description": "Dedicated audio show for industry professionals.",
-    "startUtc": 1763164800000,
-    "endUtc": 1763251199000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
-    "tags": ["audio", "exhibition"]
-  },
+  
   {
     "id": "av-awards-2025",
     "title": "AV Awards 2025",
