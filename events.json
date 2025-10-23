@@ -25,18 +25,6 @@
     "tags": ["conference", "acoustics"]
   },
   {
-    "id": "production-futures-breakthrough-awards-2025",
-    "title": "Production Futures on Tour – Breakthrough Awards Ceremony",
-    "organiser": "Production Futures",
-    "location": "Production Park, Wakefield, UK",
-    "description": "The Entertainment Production Industry Careers Fair with a difference.",
-    "startUtc": 1764201600000,
-    "endUtc": 1764287999000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["awards", "careers", "live events"]
-  },
-  {
     "id": "ise-2026",
     "title": "Integrated Systems Europe (ISE) 2026",
     "organiser": "ISE",
@@ -47,30 +35,6 @@
     "url": "https://www.iseurope.org/",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
     "tags": ["trade show", "exhibition", "proAV"]
-  },
-  {
-    "id": "iscvex-2026-networking-dinner",
-    "title": "ISCVEx 2026 Networking Dinner",
-    "organiser": "ISCVE",
-    "location": "Coombe Abbey, Binley, UK",
-    "description": "A great opportunity to network with industry colleagues and friends in an informal environment.",
-    "startUtc": 1773705600000,
-    "endUtc": 1773791999000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["networking", "AV"]
-  },
-  {
-    "id": "iscvex-2026-exhibition-seminar",
-    "title": "ISCVEx 2026 Exhibition & Seminar Day",
-    "organiser": "ISCVE",
-    "location": "Coombe Abbey, Binley, UK",
-    "description": "The most relevant event in the sound, communications and AV industry calendar.",
-    "startUtc": 1773792000000,
-    "endUtc": 1773878399000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["exhibition", "seminar", "AV"]
   },
   {
     "id": "prolight-sound-2026",
@@ -121,17 +85,4 @@
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
     "tags": ["exhibition", "theatre", "live events"]
   },
-  {
-    "id": "bpm-2025",
-    "title": "BPM 2025",
-    "organiser": "BPM Show",
-    "location": "TBC",
-    "description": "The ultimate show for DJs.",
-    "startUtc": null,
-    "endUtc": null,
-    "dateNote": "TBC",
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
-    "tags": ["DJ", "music tech", "trade show"]
-  }
 ]
