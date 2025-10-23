@@ -36,18 +36,6 @@
     "tags": ["exhibition", "events", "festival"]
   },
   {
-    "id": "firex-international-2025",
-    "title": "Firex International 2025",
-    "organiser": "FIREX International",
-    "location": "London, UK",
-    "description": "The leading fire safety exhibition connecting you to international markets.",
-    "startUtc": 1764028800000,
-    "endUtc": 1764287999000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
-    "tags": ["exhibition", "fire safety"]
-  },
-  {
     "id": "ips-pro-audio-show-2025",
     "title": "The IPS Pro Audio Show 2025",
     "organiser": "Institute of Professional Sound (IPS)",
@@ -56,20 +44,8 @@
     "startUtc": 1763164800000,
     "endUtc": 1763251199000,
     "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
     "tags": ["audio", "exhibition"]
-  },
-  {
-    "id": "iscve-get-ahead-2025",
-    "title": "ISCVE Get Ahead 2025",
-    "organiser": "ISCVE",
-    "location": "Principality Stadium, Cardiff, UK",
-    "description": "Exclusive insights from industry experts on the latest trends in sound, communications and visual sectors.",
-    "startUtc": 1762387200000,
-    "endUtc": 1762473599000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["conference", "AV", "education"]
   },
   {
     "id": "av-awards-2025",
@@ -80,7 +56,7 @@
     "startUtc": 1762473600000,
     "endUtc": 1762559999000,
     "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AW_SHOW.png",
     "tags": ["awards", "AV"]
   },
   {
