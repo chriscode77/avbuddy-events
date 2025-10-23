@@ -6,23 +6,11 @@
     "organiser": "AV Magazine",
     "location": "Evolution London, UK",
     "description": "The biggest and most prestigious night in the industry’s calendar for its independence and transparency.",
-    "startUtc": 1762473600000,
-    "endUtc": 1762559999000,
+    "startUtc": 1794074400000,
+    "endUtc": 1794092400000,
     "url": "",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AW_SHOW.png",
     "tags": ["awards", "AV"]
-  },
-  {
-    "id": "reproduced-sound-2025",
-    "title": "Reproduced Sound 2025",
-    "organiser": "Institute of Acoustics",
-    "location": "The Old Swan Hotel, Harrogate, UK",
-    "description": "Bringing together practitioners, educators and students of acoustics.",
-    "startUtc": 1763424000000,
-    "endUtc": 1763683199000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
-    "tags": ["conference", "acoustics"]
   },
   {
     "id": "ise-2026",
@@ -35,42 +23,6 @@
     "url": "https://www.iseurope.org/",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
     "tags": ["trade show", "exhibition", "proAV"]
-  },
-  {
-    "id": "prolight-sound-2026",
-    "title": "Prolight+Sound 2026",
-    "organiser": "Messe Frankfurt",
-    "location": "Messe Frankfurt, Germany",
-    "description": "The global entertainment technology show.",
-    "startUtc": 1774310400000,
-    "endUtc": 1774655999000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/EV_INDUST.png",
-    "tags": ["trade show", "live events", "audio", "lighting"]
-  },
-  {
-    "id": "plasa-focus-2026",
-    "title": "PLASA Focus 2026",
-    "organiser": "PLASA",
-    "location": "Royal Armouries, Leeds, UK",
-    "description": "An essential event for live entertainment professionals.",
-    "startUtc": 1778540400000,
-    "endUtc": 1778713199000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
-    "tags": ["trade show", "live events"]
-  },
-  {
-    "id": "abtt-theatre-show-2026",
-    "title": "ABTT Theatre Show 2026",
-    "organiser": "ABTT",
-    "location": "Alexandra Palace, London, UK",
-    "description": "Exhibition for those responsible for delivery in theatre, events, festivals, sport, film and TV.",
-    "startUtc": 1780441200000,
-    "endUtc": 1780613999000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["exhibition", "theatre", "live events"]
   },
   {
     "id": "Infocomm-2026",
