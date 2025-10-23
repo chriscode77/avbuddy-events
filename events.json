@@ -85,4 +85,16 @@
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
     "tags": ["exhibition", "theatre", "live events"]
   },
+  {
+    "id": "Infocomm-2026",
+    "title": "Infocomm 2026",
+    "organiser": "AVIXA",
+    "location": "Convention Center, Las Vegas, US",
+    "description": "Test the latest pro AV technologies, stay up to date on industry trends, and grow your professional network.",
+    "startUtc": 1781341200000,
+    "endUtc": 1781902800000,
+    "url": "",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
+    "tags": ["trade show", "audio", "video"]
+  },
 ]
