@@ -84,18 +84,6 @@
     "tags": ["awards", "careers", "live events"]
   },
   {
-    "id": "security-fire-excellence-awards-2025",
-    "title": "Security & Fire Excellence Awards 2025",
-    "organiser": "Security & Fire Excellence Awards",
-    "location": "JW Marriott Grosvenor House, Park Lane, London, UK",
-    "description": "Celebrating the best people, projects and processes in the security and fire sectors.",
-    "startUtc": 1764547200000,
-    "endUtc": 1764633599000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/AUD_EVENT.png",
-    "tags": ["awards", "security", "fire safety"]
-  },
-  {
     "id": "ise-2026",
     "title": "Integrated Systems Europe (ISE) 2026",
     "organiser": "ISE",
@@ -140,7 +128,7 @@
     "startUtc": 1774310400000,
     "endUtc": 1774655999000,
     "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/EV_INDUST.png",
     "tags": ["trade show", "live events", "audio", "lighting"]
   },
   {
@@ -153,33 +141,8 @@
     "endUtc": null,
     "dateNote": "TBC April 2026",
     "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
     "tags": ["trade show", "broadcast"]
-  },
-  {
-    "id": "the-fire-safety-event-2026",
-    "title": "The Fire Safety Event 2026",
-    "organiser": "The Fire Safety Event",
-    "location": "NEC Birmingham, UK",
-    "description": "Supporting fire safety professionals to achieve and maintain the highest standards of fire safety management.",
-    "startUtc": 1777330800000,
-    "endUtc": 1777589999000,
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["exhibition", "fire safety"]
-  },
-  {
-    "id": "production-futures-manchester-2026",
-    "title": "Production Futures on Tour – Manchester 2026",
-    "organiser": "Production Futures",
-    "location": "AO Arena, Manchester, UK",
-    "description": "The Entertainment Production Industry Careers Fair with a difference.",
-    "startUtc": null,
-    "endUtc": null,
-    "dateNote": "TBC",
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["careers", "live events"]
   },
   {
     "id": "plasa-focus-2026",
@@ -204,19 +167,6 @@
     "url": "",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
     "tags": ["exhibition", "theatre", "live events"]
-  },
-  {
-    "id": "aes-europe-2026",
-    "title": "AES Europe 2026",
-    "organiser": "Audio Engineering Society (AES)",
-    "location": "ATM Studios, Warsaw, Poland",
-    "description": "AES Europe International Convention.",
-    "startUtc": null,
-    "endUtc": null,
-    "dateNote": "TBC 2026",
-    "url": "",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["audio", "conference"]
   },
   {
     "id": "bpm-2025",
