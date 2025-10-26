@@ -44,7 +44,7 @@
     "startUtc": 1775414400000,
     "endUtc": 1775683200000,
     "url": "https://www.infocommshow.org",
-    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/TEC_EVENT.png",
-    "tags": ["trade show", "audio", "video"]
+    "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
+     "tags": ["trade show", "exhibition", "proAV"]
   }
 ]
