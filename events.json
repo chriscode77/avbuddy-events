@@ -14,7 +14,7 @@
   {
     "id": "ise-2026",
     "title": "Integrated Systems Europe (ISE)",
-    "organiser": "ISE",
+    "organiser": "AVIXA",
     "location": "Fira de Barcelona Gran Via, Barcelona, Spain",
     "description": "The AV industry’s flagship show.",
     "startUtc": 1770076800000,
@@ -41,8 +41,8 @@
     "organiser": "AVIXA",
     "location": "Convention Center, Las Vegas, US",
     "description": "Test the latest pro AV technologies, stay up to date on industry trends, and grow your professional network.",
-    "startUtc": 1775414400000,
-    "endUtc": 1775683200000,
+    "startUtc": 1781366400000,
+    "endUtc": 1781913600000,
     "url": "https://www.infocommshow.org",
     "imageUrl": "https://raw.githubusercontent.com/chriscode77/avbuddy-events/main/images/IN_EVENT.png",
      "tags": ["trade show", "exhibition", "proAV"]
